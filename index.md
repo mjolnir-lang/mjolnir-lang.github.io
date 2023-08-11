@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: About
+permalink: /home/
 ---
-# The Mjolnir Programming Language
 
 A systems programming language.
 
